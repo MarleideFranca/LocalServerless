@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+*.log
+*.env
+
+# Documentos e PDFs
+*.pdf
+*.docx
+*.JPG
+
+
